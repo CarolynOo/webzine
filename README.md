@@ -1,6 +1,6 @@
 # webzine
-Un webzine féministe, parce que on peut faire du LOL tout en respectant tous les genres 
-Un webzine avec plein d'amour dedans          (un peu comme du nutella mais sans huile de palme)
+* Un webzine féministe, parce que on peut faire du LOL tout en respectant tous les genres 
+* Un webzine avec plein d'amour dedans          (un peu comme du nutella mais sans huile de palme)
 ## Techno utilisé
 HTML CSS SASS PHP natif 
 ## Organisation
