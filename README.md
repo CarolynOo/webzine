@@ -4,5 +4,5 @@ Un webzine avec plein d'amour dedans          (un peu comme du nutella mais sans
 ## Techno utilisé
 HTML CSS SASS PHP natif 
 ## Organisation
-Trello: https://trello.com/b/p0sHBPDE/projet-de-webzine
-Dossier Documentation: Road map- Diagramme Classe - User Case
+* Trello: https://trello.com/b/p0sHBPDE/projet-de-webzine
+* Dossier Documentation: Road map- Diagramme Classe - User Case
